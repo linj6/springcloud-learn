@@ -8,3 +8,8 @@
     负载均衡 ribbon;   
     restful服务调用 restTemplate    
     参考资料：http://blog.csdn.net/forezp/article/details/69788938
+    
+### 3.chapter3
+
+    负载均衡 feign;   
+    参考资料：http://blog.csdn.net/forezp/article/details/69788938
