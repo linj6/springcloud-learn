@@ -12,4 +12,9 @@
 ### 3.chapter3
 
     负载均衡 feign;   
-    参考资料：http://blog.csdn.net/forezp/article/details/69788938
+    参考资料：http://blog.csdn.net/forezp/article/details/69808079
+    
+### 4.chapter4
+ 
+     熔断器 hystrix;   
+     参考资料：http://blog.csdn.net/forezp/article/details/69934399
