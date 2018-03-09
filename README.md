@@ -24,7 +24,12 @@
      智能路由和服务过滤 zuul;   
      参考资料：http://blog.csdn.net/forezp/article/details/69939114
      
- ### 6.chapter6
-  
-      分布式配置中心 spring cloud config;   
-      参考资料：http://blog.csdn.net/forezp/article/details/70037291
+### 6.chapter6
+
+    分布式配置中心 spring cloud config;   
+    参考资料：http://blog.csdn.net/forezp/article/details/70037291
+    
+### 7.chapter7
+
+    高可用的分布式配置中心 spring cloud config;   
+    参考资料：http://blog.csdn.net/forezp/article/details/70037513
