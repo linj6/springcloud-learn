@@ -1,6 +1,6 @@
 ### 1.chapter1
 
-    服务注册与发现 eureka   
+    服务注册与发现 eureka;   
     参考资料：http://blog.csdn.net/forezp/article/details/69696915
     
 ### 2.chapter2
@@ -18,3 +18,8 @@
  
      熔断器 hystrix;   
      参考资料：http://blog.csdn.net/forezp/article/details/69934399
+     
+### 5.chapter5
+ 
+     智能路由和服务过滤 zuul;   
+     参考资料：http://blog.csdn.net/forezp/article/details/69939114
