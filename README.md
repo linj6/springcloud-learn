@@ -33,3 +33,10 @@
 
     高可用的分布式配置中心 spring cloud config;   
     参考资料：http://blog.csdn.net/forezp/article/details/70037513
+    
+### 8.chapter8
+
+    消息总线 spring cloud bus 结合spring cloud config 、rabbitmq 实现配置文件自动刷新;   
+    参考资料：
+    1.http://blog.csdn.net/forezp/article/details/70148235
+    2.https://www.cnblogs.com/andyfengzp/p/6835969.html
