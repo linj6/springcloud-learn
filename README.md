@@ -45,3 +45,11 @@
 
     服务链路追踪 spring cloud sleuth;   
     参考资料：http://blog.csdn.net/forezp/article/details/70162074
+
+### 10.chapter10
+
+    eureka集群实现高可用的服务注册中心;   
+    参考资料：http://blog.csdn.net/forezp/article/details/70183572
+
+
+高可用的服务注册中心
