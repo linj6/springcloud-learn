@@ -40,3 +40,8 @@
     参考资料：
     1.http://blog.csdn.net/forezp/article/details/70148235
     2.https://www.cnblogs.com/andyfengzp/p/6835969.html
+    
+### 9.chapter9
+
+    服务链路追踪 spring cloud sleuth;   
+    参考资料：http://blog.csdn.net/forezp/article/details/70162074
